@@ -4,8 +4,6 @@ Objective: Create a hybrid model for stock price/performance prediction using nu
 
 Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
 
-Download historical stock prices from finance.yahoo.com
-
 Download textual (news) data from https://bit.ly/36fFP16
 
 Technology used: Google Colab
